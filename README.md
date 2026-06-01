@@ -10,11 +10,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vinicius-matt.vinicius-matt" alt="visitor badge" />
-</div>
-
 ---
 
 <h3 align="center">👨‍💻 About Me</h3>
