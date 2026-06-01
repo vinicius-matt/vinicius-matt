@@ -9,9 +9,6 @@
   </a>
 </div>
 
-<br>
--------
-
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
@@ -89,14 +86,6 @@ TypeScript + Cross-browser Testing + Reports
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=vinicius-matt&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-
   <img
     height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-matt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
