@@ -106,9 +106,9 @@ Docker • CI/CD • Software Architecture
 <h3>GitHub Stats</h3>
 
 <img
-  src="https://streak-stats.demolab.com?user=vinicius-matt&locale=pt_BR&theme=tokyonight&hide_border=true&border_radius=10"
-  height="220"
-  alt="GitHub Streak"
-/>
-
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinicius-matt&theme=tokyonight"
+height="180"/> 
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinicius-matt&theme=tokyonight"
+height="180"/>
 </div>
