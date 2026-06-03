@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Matheus Vinicius</h1>
-  <h3>QA Analyst | Test Automation Engineer | Java • Selenium • Cypress • Playwright</h3>
+<h3>
+  Software Quality Analyst | Test Automation Engineer | Java Backend Developer
+</h3>
 
 
   <a href="https://www.linkedin.com/in/matheus-vinicius-01014a19b" target="_blank">
