@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Matheus Vinicius</h1>
 <h3>
-  Software Quality Analyst | Test Automation | Java Backend Developer
+  Java Backend Developer | Spring Boot | REST API | PostgreSQL | Software Quality
 </h3>
 
 
