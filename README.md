@@ -74,7 +74,7 @@ Skilled in Java, PostgreSQL, SpringBoot, Cypress and Docker, contributing across
 <h3>Featured Projects</h3>
 
 <b>🏦 Bank System</b><br>
- Java + PostgreSQL + Object-Oriented Programming + Business Rules
+ Java + PostgreSQL + POO + Business Rules
 
 <b>📋 Todo API</b><br>
 Java + REST API + Backend Development
