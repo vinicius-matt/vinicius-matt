@@ -13,25 +13,20 @@
 ---
 
 <div align="center">
-  
-
 
 <h3>About Me</h3>
 
 <p>
-Software Quality Analyst with experience in manual and automated testing for Web Applications and APIs.
-<br>
-  
-Experienced in creating test scenarios, identifying defects, validating business requirements and contributing to the delivery of reliable and high-quality software.
+Backend Java Developer with a strong background in Software Quality Assurance, combining development expertise with a quality-first mindset.
 <br>
 
-Skilled in Selenium, Cypress, Playwright and Java, developing automated test suites, improving testing processes and ensuring software quality throughout the development lifecycle.
-<br>
+Experienced in designing and developing REST APIs, working with relational databases and applying Object-Oriented Programming principles to build reliable and maintainable systems. <br>
 
-Also experienced in Java Backend Development, applying Object-Oriented Programming concepts, REST APIs, PostgreSQL and Good practices
+My experience in automated testing, quality processes and defect analysis enables me to develop software with greater reliability, testability and long-term sustainability. <br>
+
+Skilled in Java, PostgreSQL, SpringBoot, Cypress and Docker, contributing across both development and software quality initiatives.
+
 </p>
-
-</div>
 
 ---
 
