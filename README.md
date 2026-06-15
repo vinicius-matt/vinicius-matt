@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Matheus Vinicius</h1>
 <h3>
-  Java Backend Developer | Spring Boot | REST API | PostgreSQL | Software Quality
+  Java Backend Developer | Spring Boot | TypeScript | PostgreSQL | Software Quality
 </h3>
 
 
