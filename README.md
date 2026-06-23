@@ -60,19 +60,19 @@ Skilled in Java, Spring Boot, PostgreSQL, Cypress and Docker, contributing acros
 <div align="center">
 <h3>Featured Projects</h3>
 
-<b>🧪 QA-Cypress — SauceDemo E2E Test Suite</b><br>
+<b align="center" >🧪 QA-Cypress — SauceDemo E2E Test Suite</b><br>
 Cypress + Page Object Model + Positive & Negative Test Scenarios<br>
 End-to-end automated tests covering login (valid, invalid, locked user) and shopping cart flows, with fixtures and reusable page objects.<br>
 <a href="https://github.com/vinicius-matt/QA-Cypress" target="_blank">View Repository</a>
 
-<br><br>
+<br>
 
-<b>🏦 Bank System</b><br>
+<b align="center">🏦 Bank System</b><br>
 Java + PostgreSQL + POO + Business Rules
 
-<br><br>
+<br>
 
-<b>📋 Todo API</b><br>
+<b align="center">📋 Todo API</b><br>
 Java + REST API + Backend Development
 
 </div>
