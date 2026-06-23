@@ -16,7 +16,9 @@
 QA Engineer with hands-on backend development experience in Java and Spring Boot, combining a quality-first mindset with real coding practice.
 <br>
 Experienced in designing test strategies, functional and API testing, and test automation with Cypress — while also building REST APIs and working with relational databases, which gives me a complete view of the development lifecycle. <br>
+  
 This dual background means I understand the code I'm testing and communicate effectively with development teams, identifying risks early and contributing to more reliable, maintainable software. <br>
+
 Skilled in Java, Spring Boot, PostgreSQL, Cypress and Docker, contributing across both quality assurance and backend development initiatives.
 </p>
 </div>
@@ -61,7 +63,7 @@ Skilled in Java, Spring Boot, PostgreSQL, Cypress and Docker, contributing acros
 <b>🧪 QA-Cypress — SauceDemo E2E Test Suite</b><br>
 Cypress + Page Object Model + Positive & Negative Test Scenarios<br>
 End-to-end automated tests covering login (valid, invalid, locked user) and shopping cart flows, with fixtures and reusable page objects.<br>
-<a href="https://github.com/vinicius-matt/QA-Cypress" target="_blank">View Repository →</a>
+<a href="https://github.com/vinicius-matt/QA-Cypress" target="_blank">View Repository</a>
 
 <br><br>
 
