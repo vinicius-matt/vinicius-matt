@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Matheus Vinicius</h1>
+  <h1>Matheus Miranda</h1>
 <h3>
   QA Engineer | Test Automation (Cypress) | Java Backend Development | Spring Boot
 </h3>
