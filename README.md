@@ -66,14 +66,20 @@ End-to-end automated tests covering login (valid, invalid, locked user) and shop
 <a href="https://github.com/vinicius-matt/QA-Cypress" target="_blank">View Repository</a>
 
 <br>
-
-<b align="center">🏦 Bank System</b><br>
-Java + PostgreSQL + POO + Business Rules
-
 <br>
 
-<b align="center">📋 Todo API</b><br>
-Java + REST API + Backend Development
+<b align="center">📋 Todo API — REST API Integration Testing</b><br>
+Java + REST API + Spring Boot + Backend Testing Suite<br>
+Robust REST API built to apply backend quality practices, validation mechanisms, and structural endpoint security, serving as an active target for automated API testing execution.<br>
+<a href="https://github.com/vinicius-matt/todo-API" target="_blank">View Repository</a>
+
+<br>
+<br>
+
+<b align="center">🏦 Bank System — Business Rules Validation</b><br>
+Java + PostgreSQL + Object-Oriented Programming (OOP)<br>
+A core banking backend architecture designed with complex financial business rules, created to enforce strict validation practices, data consistency, and integration scenarios.<br>
+<a href="https://github.com/vinicius-matt/bank-system" target="_blank">View Repository</a>
 
 </div>
 
@@ -81,9 +87,9 @@ Java + REST API + Backend Development
 
 <div align="center">
 <h3>Areas of Expertise</h3>
-Software Quality Engineering • Test Automation • API Testing <br>
-Java Backend Development • REST APIs • PostgreSQL <br>
-Docker • CI/CD • Software Architecture
+Software Quality Engineering • Test Automation • E2E & API Testing <br>
+Test Strategies & Scenarios • Java/Spring Boot Backend Testing <br>
+PostgreSQL • Docker & Environments • Architecture & Clean Code
 </div>
 
 <div align="center">
