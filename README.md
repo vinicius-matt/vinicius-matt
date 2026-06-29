@@ -89,7 +89,7 @@ A core banking backend architecture designed with complex financial business rul
 <h3>Areas of Expertise</h3>
 Software Quality Engineering • Test Automation • E2E & API Testing <br>
 Test Strategies & Scenarios • Java/Spring Boot Backend Testing <br>
-PostgreSQL • Docker & Environments • Architecture & Clean Code
+AI-Assisted Testing (Prompt Engineering for QA) • Docker & Environments • Architecture
 </div>
 
 <div align="center">
