@@ -3,7 +3,7 @@
 <h3>
   QA Engineer | Test Automation (Cypress) | Java Backend Development | Spring Boot
 </h3>
-  <a href="https://www.linkedin.com/in/matheus-vinicius-01014a19b" target="_blank">
+  <a href="https://www.linkedin.com/in/matheus-miranda-01014a19b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
